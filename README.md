@@ -1,6 +1,4 @@
 - Siyue Zhang
-- MSc Communication Eng 
-- University of Birmingham
 - zhangsiyue0414@gmail.com
 -
 
