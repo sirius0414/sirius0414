@@ -1,6 +1,7 @@
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="230" alt="小猫正在敲键盘" />
+  <!-- GIF source (MIT): https://github.com/BBlazee/BongoCatOverlay -->
+  <img src="https://raw.githubusercontent.com/BBlazee/BongoCatOverlay/d1c14f8a4c638e439936e279221e51b786a8b6f8/14.gif" width="230" alt="小猫正在敲键盘" />
 
   <br><br>
 
