@@ -1,42 +1,15 @@
 <div align="center">
 
-### ฅ^•ﻌ•^ฅ
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="230" alt="小猫正在敲键盘" />
 
-# hi, i'm siyue ☁️
+  <br><br>
 
-这里是互联网角落里的一小块空地。  
-可以发呆，可以长蘑菇，也可以偶尔写点代码。
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1500&amp;color=C4B5FD&amp;center=true&amp;vCenter=true&amp;width=550&amp;height=60&amp;lines=hi%2C+i%27m+siyue+%3A%29;currently+collecting+clouds;moon+is+charging...+please+wait;my+cat+wrote+this+code" alt="hi, i'm siyue / 正在收集云朵 / 月亮充电中 / 代码是猫写的" />
 
-<br>
+  <p>小猫负责敲键盘，我负责看起来很忙。</p>
 
-`🍮 布丁观察员` · `☁️ 云朵收集员` · `🌙 月亮临时保管员`
+  <br>
 
-<br>
-
-**今日宇宙播报**
-
-月亮正在充电。  
-小猫正在假装上班。  
-有一个 bug 变成了蝴蝶，暂时抓不回来。
-
-<br>
-
-✧ ˚ · .　　　🪐　　　. · ˚ ✧
-
-<br>
-
-**失物招领**
-
-一颗忘记许愿的流星  
-半块被猫踩过的小饼干  
-一个刚打开就忘了要干什么的终端
-
-<br>
-
-<sub>你已经摸过这里的小猫了，今天会有一点点好运。</sub>
-
-<br><br>
-
-[Siyue Zhang](mailto:zhangsiyue0414@gmail.com) · 🐾
+  <sub><a href="mailto:zhangsiyue0414@gmail.com">Siyue Zhang</a> · 🐾</sub>
 
 </div>
