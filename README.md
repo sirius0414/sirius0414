@@ -1,7 +1,42 @@
-- Siyue Zhang
-- zhangsiyue0414@gmail.com
+<div align="center">
 
-<!---
-sirius0414/sirius0414 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### ฅ^•ﻌ•^ฅ
+
+# hi, i'm siyue ☁️
+
+这里是互联网角落里的一小块空地。  
+可以发呆，可以长蘑菇，也可以偶尔写点代码。
+
+<br>
+
+`🍮 布丁观察员` · `☁️ 云朵收集员` · `🌙 月亮临时保管员`
+
+<br>
+
+**今日宇宙播报**
+
+月亮正在充电。  
+小猫正在假装上班。  
+有一个 bug 变成了蝴蝶，暂时抓不回来。
+
+<br>
+
+✧ ˚ · .　　　🪐　　　. · ˚ ✧
+
+<br>
+
+**失物招领**
+
+一颗忘记许愿的流星  
+半块被猫踩过的小饼干  
+一个刚打开就忘了要干什么的终端
+
+<br>
+
+<sub>你已经摸过这里的小猫了，今天会有一点点好运。</sub>
+
+<br><br>
+
+[Siyue Zhang](mailto:zhangsiyue0414@gmail.com) · 🐾
+
+</div>
