@@ -4,7 +4,7 @@
 
   <br><br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1500&amp;color=C4B5FD&amp;center=true&amp;vCenter=true&amp;width=550&amp;height=60&amp;lines=hi%2C+i%27m+siyue+%3A%29;currently+collecting+clouds;moon+is+charging...+please+wait;my+cat+wrote+this+code" alt="hi, i'm siyue / 正在收集云朵 / 月亮充电中 / 代码是猫写的" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1500&amp;color=C4B5FD&amp;center=true&amp;vCenter=true&amp;width=550&amp;height=60&amp;lines=this+text+exists;nothing+happened+successfully;the+next+line+is+also+a+line;still+here+for+some+reason" alt="this text exists / nothing happened successfully / the next line is also a line / still here for some reason" />
 
   <br>
 
