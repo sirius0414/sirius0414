@@ -8,6 +8,6 @@
 
   <br>
 
-  <sub><a href="mailto:zhangsiyue0414@gmail.com">Siyue Zhang</a> · 🐾</sub>
+  <sub><a href="mailto:zhangsiyue0414@gmail.com">Siyue Zhang</a> ✉️ · 🐾</sub>
 
 </div>
